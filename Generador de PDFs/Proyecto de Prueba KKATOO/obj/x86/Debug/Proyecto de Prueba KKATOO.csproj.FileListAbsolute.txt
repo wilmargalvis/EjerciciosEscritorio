@@ -1,0 +1,35 @@
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.exe
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.pdb
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Form1.resources
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Properties.Resources.resources
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.exe
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.pdb
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.dll
+C:\Users\Tornado\documents\visual studio 2010\Projects\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.xml
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.exe
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.pdb
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.exe
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.pdb
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.dll
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.xml
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csprojResolveAssemblyReference.cache
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Form1.resources
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Properties.Resources.resources
+D:\Desarrollo de software\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csproj.GenerateResource.Cache
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.exe
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Proyecto de Prueba KKATOO.pdb
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.dll
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\itextsharp.xml
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csproj.AssemblyReference.cache
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Form1.resources
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto_de_Prueba_KKATOO.Properties.Resources.resources
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csproj.GenerateResource.cache
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.csproj.CopyComplete
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.exe
+C:\Users\wilmar.galvis\Downloads\PDF con C#\PDF con C#\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\Proyecto de Prueba KKATOO\obj\x86\Debug\Proyecto de Prueba KKATOO.pdb

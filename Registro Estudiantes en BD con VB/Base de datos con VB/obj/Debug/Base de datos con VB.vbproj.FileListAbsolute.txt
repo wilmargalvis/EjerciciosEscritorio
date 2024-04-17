@@ -1,0 +1,23 @@
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.exe.config
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.exe
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.pdb
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.xml
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.vbprojResolveAssemblyReference.cache
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base_de_datos_con_VB.Form1.resources
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base_de_datos_con_VB.Resources.resources
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.vbproj.GenerateResource.Cache
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.exe
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.xml
+C:\Users\Tornado\Documents\Visual Studio 2015\Projects\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.pdb
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.exe.config
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.exe
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.pdb
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\bin\Debug\Base de datos con VB.xml
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.vbproj.AssemblyReference.cache
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base_de_datos_con_VB.Form1.resources
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base_de_datos_con_VB.Resources.resources
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.vbproj.GenerateResource.cache
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.vbproj.CoreCompileInputs.cache
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.exe
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.xml
+C:\Users\wilmar.galvis\Downloads\Base de datos con VB\Base de datos con VB\Base de datos con VB\obj\Debug\Base de datos con VB.pdb
