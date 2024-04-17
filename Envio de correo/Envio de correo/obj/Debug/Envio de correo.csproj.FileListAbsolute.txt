@@ -1,0 +1,10 @@
+D:\Desarrollo de software\Envio de correo\Envio de correo\bin\Debug\Envio de correo.exe.config
+D:\Desarrollo de software\Envio de correo\Envio de correo\bin\Debug\Envio de correo.exe
+D:\Desarrollo de software\Envio de correo\Envio de correo\bin\Debug\Envio de correo.pdb
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio de correo.csprojAssemblyReference.cache
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio_de_correo.Form1.resources
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio_de_correo.Properties.Resources.resources
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio de correo.csproj.GenerateResource.cache
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio de correo.csproj.CoreCompileInputs.cache
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio de correo.exe
+D:\Desarrollo de software\Envio de correo\Envio de correo\obj\Debug\Envio de correo.pdb
